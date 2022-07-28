@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api?username=wiggydave10&count_private=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wiggydave10&layout=compact)
+
+
 <!--
 **wiggydave10/wiggydave10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
